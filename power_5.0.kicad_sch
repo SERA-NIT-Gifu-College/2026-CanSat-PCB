@@ -636,7 +636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c2f92b6-a058-4cb2-9788-1371d8190d62")
-		(property "Reference" "C?"
+		(property "Reference" "C5"
 			(at 120.65 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -698,11 +698,11 @@
 		(instances
 			(project "cansat-2026"
 				(path "/e7460e48-0dfd-427c-9e44-f917ebe6a296/87bdd923-3d33-4a25-9c4e-e3464401770b"
-					(reference "C?")
+					(reference "C7")
 					(unit 1)
 				)
 				(path "/e7460e48-0dfd-427c-9e44-f917ebe6a296/cac25c5d-e21e-4cd3-87ea-c3eb3e0053b1"
-					(reference "C?")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -720,7 +720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9be042a0-f1fb-4ad2-ab27-e75443222e13")
-		(property "Reference" "U?"
+		(property "Reference" "U3"
 			(at 157.48 82.4798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -803,11 +803,11 @@
 		(instances
 			(project "cansat-2026"
 				(path "/e7460e48-0dfd-427c-9e44-f917ebe6a296/87bdd923-3d33-4a25-9c4e-e3464401770b"
-					(reference "U?")
+					(reference "U4")
 					(unit 1)
 				)
 				(path "/e7460e48-0dfd-427c-9e44-f917ebe6a296/cac25c5d-e21e-4cd3-87ea-c3eb3e0053b1"
-					(reference "U?")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -825,7 +825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f275e361-ee56-4e82-bea0-2600db9e1bd6")
-		(property "Reference" "C?"
+		(property "Reference" "C6"
 			(at 160.02 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -889,11 +889,11 @@
 		(instances
 			(project "cansat-2026"
 				(path "/e7460e48-0dfd-427c-9e44-f917ebe6a296/87bdd923-3d33-4a25-9c4e-e3464401770b"
-					(reference "C?")
+					(reference "C8")
 					(unit 1)
 				)
 				(path "/e7460e48-0dfd-427c-9e44-f917ebe6a296/cac25c5d-e21e-4cd3-87ea-c3eb3e0053b1"
-					(reference "C?")
+					(reference "C6")
 					(unit 1)
 				)
 			)
