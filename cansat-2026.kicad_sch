@@ -4577,6 +4577,10 @@
 		(uuid "e1dfa88a-1239-40c6-ad3c-6b4b294609c1")
 	)
 	(no_connect
+		(at 247.65 76.2)
+		(uuid "e4662cd5-4283-4e4d-b35b-53df2a68893f")
+	)
+	(no_connect
 		(at 247.65 55.88)
 		(uuid "ea944bf9-ffbd-463b-ab6c-c679411c549d")
 	)
@@ -5462,16 +5466,6 @@
 		)
 		(uuid "18cc4ac9-87eb-42ee-8e95-f35cdca0b70d")
 	)
-	(label "3V3"
-		(at 247.65 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1df25854-d6eb-45ab-b76e-e7107fd98f63")
-	)
 	(label "M2_OUT2"
 		(at 214.63 152.4 270)
 		(effects
@@ -5782,16 +5776,6 @@
 		)
 		(uuid "6ed67f04-139d-4928-b2ed-67fff441c5b8")
 	)
-	(label "Sol"
-		(at 105.41 81.28 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "70de5ed8-fe13-437c-aaf7-3a97c6b74229")
-	)
 	(label "WPT_EN"
 		(at 132.08 96.52 180)
 		(effects
@@ -6071,6 +6055,16 @@
 			(justify right bottom)
 		)
 		(uuid "d71ce155-f0c4-482c-ab4f-af48438eacc4")
+	)
+	(label "V_{Sol}"
+		(at 105.41 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da1a2d04-6a0b-43f9-a6f2-096932e2309b")
 	)
 	(label "UART0_RX"
 		(at 201.93 55.88 180)
